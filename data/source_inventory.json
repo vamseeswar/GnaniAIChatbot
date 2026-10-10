@@ -1,0 +1,282 @@
+{
+  "company": "Gnani.ai",
+  "official_website": "https://www.gnani.ai",
+  "last_updated": "2026-10-10T07:57:00.065062+00:00",
+  "total_documents": 39,
+  "total_characters": 263154,
+  "sources": [
+    {
+      "url": "https://www.gnani.ai",
+      "status": "success",
+      "title": "Gnani AI | The Frontier AI Company for Enterprise",
+      "retrieval_date": "2026-10-10T07:56:39.782576+00:00",
+      "char_count": 8609
+    },
+    {
+      "url": "https://www.gnani.ai/about-us",
+      "status": "success",
+      "title": "About Gnani AI | The Frontier Voice AI Company",
+      "retrieval_date": "2026-10-10T07:56:40.096199+00:00",
+      "char_count": 4699
+    },
+    {
+      "url": "https://www.gnani.ai/careers",
+      "status": "success",
+      "title": "Careers at Gnani AI | Build Frontier Voice AI",
+      "retrieval_date": "2026-10-10T07:56:40.433239+00:00",
+      "char_count": 16713
+    },
+    {
+      "url": "https://www.gnani.ai/technology",
+      "status": "success",
+      "title": "How Our Technology Works | Gnani.ai Agentic AI Platform",
+      "retrieval_date": "2026-10-10T07:56:40.873728+00:00",
+      "char_count": 8044
+    },
+    {
+      "url": "https://www.gnani.ai/inya-shield-armour365-voice-biometrics-ai",
+      "status": "success",
+      "title": "Inya Shield: Voice Biometrics Authentication | Gnani",
+      "retrieval_date": "2026-10-10T07:56:41.355110+00:00",
+      "char_count": 3329
+    },
+    {
+      "url": "https://www.gnani.ai/inya-assist-assist365-agent-assist-ai",
+      "status": "success",
+      "title": "Inya Assist | Real Time Agent Assist for Contact Centers | Gnani.ai",
+      "retrieval_date": "2026-10-10T07:56:41.974739+00:00",
+      "char_count": 3294
+    },
+    {
+      "url": "https://www.gnani.ai/inya-workforce-automate365-ai",
+      "status": "success",
+      "title": "24/7 AI Agents for Customer Support | Inya Workforce by Gnani.ai",
+      "retrieval_date": "2026-10-10T07:56:42.369921+00:00",
+      "char_count": 3273
+    },
+    {
+      "url": "https://www.gnani.ai/inya-insights-aura365-conversation-analytics-ai",
+      "status": "success",
+      "title": "Contact Center QA & Conversation Analytics | Gnani AI",
+      "retrieval_date": "2026-10-10T07:56:42.820780+00:00",
+      "char_count": 3355
+    },
+    {
+      "url": "https://www.gnani.ai/agent-assist-ai",
+      "status": "success",
+      "title": "Agent Assist AI Use Cases | Gnani.ai",
+      "retrieval_date": "2026-10-10T07:56:43.554420+00:00",
+      "char_count": 1383
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-insurance",
+      "status": "success",
+      "title": "Agentic AI for Insurance | Gnani.ai Multilingual AI Voice Agents",
+      "retrieval_date": "2026-10-10T07:56:44.053600+00:00",
+      "char_count": 3598
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-banking",
+      "status": "success",
+      "title": "Agentic AI for Banking | Gnani.ai Multilingual AI Voice Agents",
+      "retrieval_date": "2026-10-10T07:56:44.474019+00:00",
+      "char_count": 3843
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-automotive",
+      "status": "success",
+      "title": "Agentic AI for Automotive | Gnani.ai Multilingual AI Voice Agents",
+      "retrieval_date": "2026-10-10T07:56:45.017938+00:00",
+      "char_count": 3441
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-consumer-durables",
+      "status": "success",
+      "title": "Agentic AI for Consumer Durables | Gnani AI Voice AI",
+      "retrieval_date": "2026-10-10T07:56:45.416993+00:00",
+      "char_count": 3318
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-bpo-contact-centers",
+      "status": "success",
+      "title": "Agentic AI for BPOs | Gnani.ai Multilingual AI Voice Agents",
+      "retrieval_date": "2026-10-10T07:56:45.869912+00:00",
+      "char_count": 3209
+    },
+    {
+      "url": "https://www.gnani.ai/customer-experience-ai",
+      "status": "success",
+      "title": "Outbound CX Automation with AI | Gnani.ai",
+      "retrieval_date": "2026-10-10T07:56:46.349805+00:00",
+      "char_count": 1855
+    },
+    {
+      "url": "https://www.gnani.ai/customer-support-ai",
+      "status": "success",
+      "title": "Customer Support AI Use Cases | Gnani.ai",
+      "retrieval_date": "2026-10-10T07:56:46.669440+00:00",
+      "char_count": 1675
+    },
+    {
+      "url": "https://www.gnani.ai/marketing-automation-ai",
+      "status": "success",
+      "title": "AI for Marketing and Sales | Use Cases | Gnani.ai",
+      "retrieval_date": "2026-10-10T07:56:47.069430+00:00",
+      "char_count": 1748
+    },
+    {
+      "url": "https://www.gnani.ai/internal-operations-automation",
+      "status": "success",
+      "title": "AI for IT Helpdesk and HR Support | Gnani.ai",
+      "retrieval_date": "2026-10-10T07:56:47.700246+00:00",
+      "char_count": 1642
+    },
+    {
+      "url": "https://www.gnani.ai/analytics-and-qa-ai",
+      "status": "success",
+      "title": "Conversation Analytics Use Cases | Gnani.ai",
+      "retrieval_date": "2026-10-10T07:56:48.364240+00:00",
+      "char_count": 1378
+    },
+    {
+      "url": "https://www.gnani.ai/customer-stories",
+      "status": "success",
+      "title": "Voice AI Case Studies | Enterprise Results | Gnani AI",
+      "retrieval_date": "2026-10-10T07:56:48.747782+00:00",
+      "char_count": 1673
+    },
+    {
+      "url": "https://www.gnani.ai/customer-testimonials",
+      "status": "success",
+      "title": "Customer Testimonials | Gnani.ai Agentic AI Results",
+      "retrieval_date": "2026-10-10T07:56:49.197267+00:00",
+      "char_count": 2436
+    },
+    {
+      "url": "https://www.gnani.ai/resources/blogs",
+      "status": "success",
+      "title": "Enterprise Voice AI, Agentic & Model Insights | Gnani AI",
+      "retrieval_date": "2026-10-10T07:56:49.883463+00:00",
+      "char_count": 2061
+    },
+    {
+      "url": "https://www.gnani.ai/privacy",
+      "status": "success",
+      "title": "Privacy Policy | Gnani.ai",
+      "retrieval_date": "2026-10-10T07:56:50.196498+00:00",
+      "char_count": 18692
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-telecom",
+      "status": "success",
+      "title": "Agentic AI for Telecom | Gnani.ai Multilingual AI Voice Agents",
+      "retrieval_date": "2026-10-10T07:56:50.898149+00:00",
+      "char_count": 3179
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-real-estate",
+      "status": "success",
+      "title": "Agentic AI for Real Estate | Gnani.ai Multilingual AI Voice Agents",
+      "retrieval_date": "2026-10-10T07:56:51.551220+00:00",
+      "char_count": 3102
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-hospitality",
+      "status": "success",
+      "title": "Agentic AI for Hospitality | Gnani.ai Multilingual AI Voice Agents",
+      "retrieval_date": "2026-10-10T07:56:52.393776+00:00",
+      "char_count": 2985
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-edtech",
+      "status": "success",
+      "title": "Agentic AI for Edtech | Gnani.ai Multilingual AI Voice Agents",
+      "retrieval_date": "2026-10-10T07:56:53.038187+00:00",
+      "char_count": 3188
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-hr",
+      "status": "success",
+      "title": "Agentic AI for HR | Gnani.ai Multilingual AI Voice Agents",
+      "retrieval_date": "2026-10-10T07:56:53.809657+00:00",
+      "char_count": 3129
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-retail",
+      "status": "success",
+      "title": "Agentic AI for Retail & E-commerce | Gnani AI Voice AI",
+      "retrieval_date": "2026-10-10T07:56:54.241687+00:00",
+      "char_count": 3522
+    },
+    {
+      "url": "https://www.gnani.ai/agentic-ai-for-healthcare",
+      "status": "success",
+      "title": "Agentic AI for Healthcare | Gnani.ai Multilingual AI Voice Agents",
+      "retrieval_date": "2026-10-10T07:56:54.626756+00:00",
+      "char_count": 3211
+    },
+    {
+      "url": "https://www.gnani.ai/products---humanos",
+      "status": "success",
+      "title": "HumanOS by Gnani.ai: AI-Powered Digital Avatars & Humans",
+      "retrieval_date": "2026-10-10T07:56:55.024912+00:00",
+      "char_count": 3185
+    },
+    {
+      "url": "https://www.gnani.ai/solutions",
+      "status": "success",
+      "title": "Enterprise Voice AI Solutions & Use Cases | Gnani AI",
+      "retrieval_date": "2026-10-10T07:56:55.413337+00:00",
+      "char_count": 7057
+    },
+    {
+      "url": "https://www.gnani.ai/resources/blogs/10-powerful-reasons-to-integrate-agentic-ai-in-customer-support",
+      "status": "success",
+      "title": "10 Powerful Reasons to Integrate Agentic AI in Customer",
+      "retrieval_date": "2026-10-10T07:56:56.076965+00:00",
+      "char_count": 16817
+    },
+    {
+      "url": "https://www.gnani.ai/resources/blogs/10-use-cases-you-didnt-know-ai-agents-for-business-could-automate-with-inya-ai",
+      "status": "success",
+      "title": "10 Use Cases You Didn’t Know You Could Automate with Inya.ai",
+      "retrieval_date": "2026-10-10T07:56:56.725324+00:00",
+      "char_count": 21664
+    },
+    {
+      "url": "https://www.gnani.ai/resources/blogs/2025-is-the-year-of-ai-agents-and-gnani-ai-is-leading-the-charge",
+      "status": "success",
+      "title": "2025 is the year of AI Agents and Gnani.ai is leading the",
+      "retrieval_date": "2026-10-10T07:56:57.189346+00:00",
+      "char_count": 13232
+    },
+    {
+      "url": "https://www.gnani.ai/resources/blogs/24-7-multilingual-ai-agents-for-insurance-always-on-always-accurate",
+      "status": "success",
+      "title": "24/7 Multilingual AI Agents for Insurance—Always On, Always",
+      "retrieval_date": "2026-10-10T07:56:57.982811+00:00",
+      "char_count": 20196
+    },
+    {
+      "url": "https://www.gnani.ai/resources/blogs/24-7-technical-support-with-always-on-it-troubleshooting-ai-agent",
+      "status": "success",
+      "title": "24/7 Technical Support with Always-On IT Troubleshooting AI",
+      "retrieval_date": "2026-10-10T07:56:58.662022+00:00",
+      "char_count": 26319
+    },
+    {
+      "url": "https://www.gnani.ai/resources/blogs/5-ai-powered-upselling-strategies-that-boost-banking-revenues",
+      "status": "success",
+      "title": "The Art of Upselling: How AI Boosts Banking Revenues",
+      "retrieval_date": "2026-10-10T07:56:59.314179+00:00",
+      "char_count": 20121
+    },
+    {
+      "url": "https://www.gnani.ai/resources/blogs/5-essential-factors-for-selecting-your-perfect-chatbot-solution",
+      "status": "success",
+      "title": "5 Essential Factors for Selecting Your Perfect Chatbot",
+      "retrieval_date": "2026-10-10T07:57:00.065062+00:00",
+      "char_count": 8979
+    }
+  ]
+}

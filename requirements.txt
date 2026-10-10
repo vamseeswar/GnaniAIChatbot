@@ -1,0 +1,29 @@
+# Core Framework and Web UI
+streamlit>=1.35.0
+
+# LangChain and RAG Orchestration
+langchain>=0.2.5
+langchain-community>=0.2.5
+langchain-core>=0.2.0
+langchain-text-splitters>=0.2.0
+langchain-groq>=0.1.5
+
+# Embeddings and Vector Search
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+torch>=2.0.0
+
+# LLM Inference
+groq>=0.9.0
+
+# Document Ingestion and Web Extraction
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+pypdf>=4.0.0
+
+# Configuration and Environment
+python-dotenv>=1.0.0
+
+# Automated Testing
+pytest>=8.0.0
