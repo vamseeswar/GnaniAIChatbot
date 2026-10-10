@@ -273,12 +273,58 @@ with st.sidebar:
         """
     )
 
-    st.markdown("---")
-
     # Clear Chat Action
     if st.button("🗑️ Clear Conversation", use_container_width=True):
         st.session_state.messages = []
         st.rerun()
+
+    st.markdown("---")
+
+    # Media & Demo Downloads
+    st.markdown('<div class="sidebar-title">📥 Media & Demo Downloads</div>', unsafe_allow_html=True)
+    video_path = Path(__file__).resolve().parent / "gnani_chatbot_demo.mp4"
+    if video_path.exists():
+        with open(video_path, "rb") as vf:
+            st.download_button(
+                label="🎬 Download Demo Video (.mp4)",
+                data=vf.read(),
+                file_name="gnani_chatbot_demo.mp4",
+                mime="video/mp4",
+                use_container_width=True,
+            )
+
+    img1_path = Path(__file__).resolve().parent / "assets" / "gnani_concept_dashboard.jpg"
+    if img1_path.exists():
+        with open(img1_path, "rb") as if1:
+            st.download_button(
+                label="🖼️ Download Dashboard Concept (.jpg)",
+                data=if1.read(),
+                file_name="gnani_concept_dashboard.jpg",
+                mime="image/jpeg",
+                use_container_width=True,
+            )
+
+    img2_path = Path(__file__).resolve().parent / "assets" / "gnani_voice_intelligence_ui.jpg"
+    if img2_path.exists():
+        with open(img2_path, "rb") as if2:
+            st.download_button(
+                label="📊 Download Voice Analytics UI (.jpg)",
+                data=if2.read(),
+                file_name="gnani_voice_intelligence_ui.jpg",
+                mime="image/jpeg",
+                use_container_width=True,
+            )
+
+    img3_path = Path(__file__).resolve().parent / "assets" / "app_overview_ui.png"
+    if img3_path.exists():
+        with open(img3_path, "rb") as if3:
+            st.download_button(
+                label="📸 Download Live App Screenshot (.png)",
+                data=if3.read(),
+                file_name="app_overview_ui.png",
+                mime="image/png",
+                use_container_width=True,
+            )
 
 
 # --- MAIN INTERFACE ---
